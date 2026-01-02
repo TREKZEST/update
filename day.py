@@ -20,8 +20,18 @@ The support team
 '''
 """
 #string method
+"""
 course = "python for beginners"
 print(len(course))
 print(course.upper())
 print(course)
 print(course.find('p'))
+"""
+"""
+HackerRank
+- Say "Hello, World!"
+- Python If-Else
+- Arithmetic Operators
+- Division
+- Loops
+"""
